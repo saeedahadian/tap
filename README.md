@@ -4,7 +4,7 @@ A Rust-based package manager for Ubuntu
 
 ## Where does the name come from?
 
-It's an _anagram_ of `apt` which also intends to a be much faster solution, hence the name.
+It's an _anagram_ of `apt` which also intends to be a much faster alternative, hence the name.
 
 ## Inspirations
 
